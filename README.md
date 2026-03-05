@@ -1,5 +1,5 @@
 # Segundo-Cérebro-de-Ray-Dalio-notebooklm
-Segundo Cérebro: Investimentos --- Second Brain: Investment Guide
+Segundo Cérebro: Investimentos
 Segundo Cérebro: Metodologia de Investimento Financeiro
 Descrição do Projeto: Implementação de uma base de conhecimento dinâmica no NotebookLM para análise e estruturação de estratégias de investimento.
 
