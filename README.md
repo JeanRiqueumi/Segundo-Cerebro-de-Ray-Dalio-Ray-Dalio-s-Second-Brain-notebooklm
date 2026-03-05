@@ -2,7 +2,7 @@
 Segundo Cérebro: Investimentos
 Segundo Cérebro: Metodologia de Investimento Financeiro
 Descrição do Projeto: Implementação de uma base de conhecimento dinâmica no NotebookLM para análise e estruturação de estratégias de investimento.
-
+Acesse Aqui: https://notebooklm.google.com/notebook/e7503180-41e2-462e-a077-120e20557212
 1. Visão Geral
 Este projeto apresenta a construção de um "Segundo Cérebro" voltado ao estudo sistemático de metodologias de investimento. Utilizando a plataforma NotebookLM, o projeto integra documentos de fontes abertas para criar um ambiente de aprendizagem interativo. O foco principal é a conversão de dados financeiros brutos em informações estruturadas por meio de engenharia de prompt avançada.
 
